@@ -1,0 +1,1 @@
+import{o,c as s,m as l}from"./app-65af30ef.js";const n=["type"],p={__name:"BlueButton",props:{type:{type:String,default:"submit"}},setup(t){return(e,r)=>(o(),s("button",{type:t.type,class:"w-full bg-blue-500 text-white py-2 text-sm font-semibold rounded-full"},[l(e.$slots,"default")],8,n))}};export{p as _};
